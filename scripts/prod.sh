@@ -1,0 +1,2 @@
+
+webpack --mode production
