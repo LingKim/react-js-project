@@ -55,7 +55,7 @@
     "webpack-jarvis": "^0.3.2",
     "webpack-merge": "^4.2.2",
     "webpack-node-externals": "^1.7.2",
-    "yargs-parser": "^16.1.0",
+    "yargs-parser": "^18.1.2",
     "yarn": "^1.19.1"
   },
   "dependencies": {
